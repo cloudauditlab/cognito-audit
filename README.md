@@ -4,6 +4,8 @@ AWS Cognito User Pool のアクセス権監査 CLI ツール。
 
 SOC2 CC6.2 / CC6.3 および ISMS A.8.2（特権アクセス管理）の定期レビューに必要な証跡を自動生成します。
 
+**[詳細な解説記事 → Zenn](https://zenn.dev/hiro_code_lab/articles/4fb2b2656f2a00)**
+
 ---
 
 ## インストール
